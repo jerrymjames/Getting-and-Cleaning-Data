@@ -9,7 +9,7 @@ run_analysis.R, README.md, CookBook.md, Tidy_Mean_Data.txt, Merges_Data.txt
 
 Instructions
 
-1. Checkout the code using 'git checkout https://github.com/rwstang/Getting-and-Cleaning-Data-Assignment.gitYOURDIRECTORY'
+1. Checkout the code using 'git checkout https://github.com/rwstang/Getting-and-Cleaning-Data-Assignment.git <YOURDIRECTORY>'
 2. The Code does the downloading and un-zipping of the source data if it is not manually done.
 3. Load RStudio and set your working directory using setwd("YOURDIRECTORY")
 4. Load the R script using source("run_analysis.R")
