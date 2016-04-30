@@ -13,7 +13,8 @@ Instructions
 2. The Code does the downloading and un-zipping of the source data if it is not manually done.
 3. Load RStudio and set your working directory using setwd("YOURDIRECTORY")
 4. Load the R script using source("run_analysis.R")
-5. Run the R scrit , you will see that Merged_Data.txt and Tidy_Mean_Data.txt . 
+5. See the inline comments in the code for the functioning of the code
+6. Run the R scrit , you will see that Merged_Data.txt and Tidy_Mean_Data.txt . 
 
 Dependencies
 
